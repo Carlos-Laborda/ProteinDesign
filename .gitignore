@@ -1,0 +1,16 @@
+# Large data files
+pdb_data_seq.csv
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# VS Code
+.vscode/
+
+# Mac specific
+.DS_Store
